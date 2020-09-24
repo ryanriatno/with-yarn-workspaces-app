@@ -12,7 +12,7 @@ In this example we have three workspaces:
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-yarn-workspaces)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ryanriatno/with-yarn-workspaces-app)
 
 ## How to use
 
