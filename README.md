@@ -6,7 +6,7 @@ In this example we have three workspaces:
 
 - **web-app**: A Next.js app
 - **foo**: A normal node module
-- **bar**: A react component, that gets compiled by Next.js (see [packages/web-app/next.config.js](./packages/web-app/next.config.js) for more info)
+- **ui**: A react component, that gets compiled by Next.js (see [packages/web-app/next.config.js](./packages/web-app/next.config.js) for more info)
 
 ## Deploy your own
 
