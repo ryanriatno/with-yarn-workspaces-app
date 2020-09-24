@@ -1,0 +1,23 @@
+import {Meta, Story, Preview, Props} from '@storybook/addon-docs/blocks'
+
+import Header from './index'
+
+<Meta title="Components/Header" component={Header} />
+
+# Header
+
+This is the `Header`
+
+```jsx
+import { Header } from 'header'
+```
+
+<Preview withSource="open">
+  <Story name="Header">
+    <div className="relative">
+      <Header onClick={() => console.log('test')}>
+        <span className="font-semibold">Masuk</span>
+      </Header>
+    </div>
+  </Story>
+</Preview>

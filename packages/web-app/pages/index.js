@@ -1,12 +1,12 @@
 import foo from 'foo'
-import Bar from 'bar'
+import { Button } from 'ui'
 
 export default function Home() {
   return (
     <div>
       Imported modules from another workspace:
       <pre>{foo}</pre>
-      <Bar />
+      <Button>Test</Button>
     </div>
   )
 }

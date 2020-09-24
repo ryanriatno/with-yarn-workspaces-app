@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> test case Black button test case Render Black button correctly 1`] = `<div />`;
+
+exports[`<Button /> test case Blue button test case Render Blue button correctly 1`] = `
+<div>
+  <button>
+    Blue button
+  </button>
+</div>
+`;
+
+exports[`<Button /> test case White button test case Render White button correctly 1`] = `<div />`;
