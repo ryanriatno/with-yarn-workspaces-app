@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       Imported modules from another workspace:
       <pre>{foo}</pre>
-      <Button>Test</Button>
+      <Button color="blue">Test</Button>
     </div>
   )
 }
